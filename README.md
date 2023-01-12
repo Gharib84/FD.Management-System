@@ -11,3 +11,5 @@
 + Invoices list feature that displays all invoices for each room in the resort and allows for easy viewing of each invoice based on room number.
 ## Front Desk Management System Philosophy:
 > The Front Desk Management System philosophy is to utilize the best of Laravel's built-in features to create an efficient and user-friendly system. This includes utilizing the MVC model, authentication system, sessions, Laravel Query Builder, and Router Resource to create a system that is easy to use and understand. By following these principles, the system aims to make front desk management more efficient and organized for hotels and resorts.
+
+![Slide 16_9 - 1](https://user-images.githubusercontent.com/29811601/212134946-2d0c1ed6-90cb-4670-b8fe-b770d984b15c.png)
