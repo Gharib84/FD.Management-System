@@ -14,13 +14,12 @@
 
                     <!-- component -->
                     <div class="flex items-center justify-center p-12">
-                        <!-- Author: FormBold Team -->
-                        <!-- Learn More: https://formbold.com -->
+                       
                         <div class="mx-auto w-full">
                             <form action="{{route('arrivals.post')}}" method="post">
                                 @csrf
                                 <h1 class="mb-5 font-bold text-lg text-left text-blue-700">
-                                    <!-- /resources/views/post/create.blade.php -->
+                                  
 
                                     Search For Arrivals
                                 </h1>
