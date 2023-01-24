@@ -10,9 +10,7 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 bg-white border-b border-gray-200 text-center">
 
-                    <!-- component -->
-
-                    <!-- component -->
+                  
                     <div class="flex items-center justify-center p-12">
                        
                         <div class="mx-auto w-full">
